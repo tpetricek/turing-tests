@@ -13,12 +13,13 @@ layout: default
         <span class="post-meta">{{ post.number }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl
+                                     }}">{{post.title }}</a>
         </h2>
+        <p>{{ post.excerpt }}</p>
+        <p>Data available from: <a href="{{ post.data-url }}">{{post.data-url}}</a></p>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
