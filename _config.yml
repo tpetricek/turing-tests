@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Turing Tests
-email: jgeddes@turing.ac.uk
+title: Turing Tests (beta)
+email: jgeddes at turing dot ac dot uk
 description: > # this means to ignore newlines until "baseurl:"
   A collection of data science challenges
 baseurl: "/turing-tests" # the subpath of your site, e.g. /blog

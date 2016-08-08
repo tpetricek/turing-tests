@@ -3,15 +3,36 @@ layout: default
 ---
 
 <div class="home">
-
+  
+  <p>
+    “Turing Tests” is a collection of data science challenges suitable for
+    testing out new algorithms, ideas, and opinions. It is primarily intended
+    for the use of researchers at
+    <a href="https://turing.ac.uk"> the Alan Turing Institute</a> but everyone
+    is welcome to make use of it.
+  </p>
+  <p>
+    We are hoping to create a set of challenges which include all the day-to-day
+    problems that beset the typical data scientist as well as more sophisticated
+    tasks. To that end, we welcome submissions. At the moment submissions must
+    include data that can be shared without restrictions. That may change.
+  </p>
+  <p>
+    It is not intended that the resources posted here must necessarily be
+    new. Many are republications of existing datasets.
+  </p>
+  <p>
+    This service is currently in beta.
+  </p>
+  
+  
   <h1 class="page-heading">Challenges</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> |
-        <span class="post-meta">{{ post.number }}</span>
-
+        <span class="post-meta">{{ post.number }}</span> |
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl
                                      }}">{{post.title }}</a>
