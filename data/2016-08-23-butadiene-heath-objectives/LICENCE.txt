@@ -1,0 +1,9 @@
+(c) Crown copyright 2016
+
+Contains public sector information licensed under the Open Government Licence v3.0.
+
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+The data in this dataset was downloaded on 2016-08-24 from
+
+https://data.gov.uk/dataset/13-butadiene-running-annual-mean-at-automatic-sites-comparison-with-health-objective-for-2003-u-2010
