@@ -33,7 +33,11 @@ table with data, but also various additional meta-data about the data set.
 
 ### Data set preview 
 
-![Preview of the 1,3-butadiene data set](/turing-tests/images/2016-08-23-butadiene-heath-objectives/screenshot.png?)
+<div style="padding:10px 30px 10px 30px">
+<a href="/turing-tests/images/2016-08-23-butadiene-heath-objectives/screenshot.png">
+<img src="/turing-tests/images/2016-08-23-butadiene-heath-objectives/screenshot.png"
+  alt="Preview of the 1,3-butadiene data set" /></a>
+</div>    
 
    
 ### Remarks
