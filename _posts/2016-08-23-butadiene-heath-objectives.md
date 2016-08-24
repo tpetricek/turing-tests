@@ -5,17 +5,12 @@ title: "Butadiene: Comparison with health objective for 2003"
 data-url: "tba"
 ---
 
-## Background
 The data set for this challenge consists of a single CSV file from the 
 [UK Open Government Data portal](https://data.gov.uk/). The data set contains
 annual means of measurements of 1,3-butadiene at a number of automatic sites
 and provides comparison with health objective for 2003.
 This challenge is an example of a "messy real-world CSV file". The file contains
 table with data, but also various additional meta-data about the data set. 
-
-### Data set preview 
-
-![Preview of the 1,3-butadiene data set](/images/2016-08-23-butadiene-heath-objectives/screenshot.png?)
 
 ## Tasks
 
@@ -35,6 +30,11 @@ table with data, but also various additional meta-data about the data set.
  4. Another thing to detect is that the empty cells in the table mean `N/A`
    (in particular, they cannot be automatically filled with zeros, because
    zero would be a valid value in the context of the table).
+
+### Data set preview 
+
+![Preview of the 1,3-butadiene data set](/turing-tests/images/2016-08-23-butadiene-heath-objectives/screenshot.png?)
+
    
 ### Remarks
 
