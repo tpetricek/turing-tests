@@ -15,7 +15,7 @@ table with data, but also various additional meta-data about the data set.
 
 ### Data set preview 
 
-![](2016-08-23-butadiene-heath-objectives/screenshot.png?)
+![Preview of the 1,3-butadiene data set](/images/2016-08-23-butadiene-heath-objectives/screenshot.png?)
 
 ## Tasks
 
