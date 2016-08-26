@@ -2,7 +2,7 @@
 layout: post
 number: "001"
 title: "Butadiene: Comparison with health objective for 2003"
-data-url: "tba"
+data-url: https://alan-turing-institute.github.io/turing-tests/data/2016-08-23-butadiene-heath-objectives.zip
 ---
 
 The data set for this challenge consists of a single CSV file from the 
@@ -38,6 +38,11 @@ table with data, but also various additional meta-data about the data set.
 <img src="/turing-tests/images/2016-08-23-butadiene-heath-objectives/screenshot.png"
   alt="Preview of the 1,3-butadiene data set" /></a>
 </div>    
+
+You can [download the data set as a single ZIP file](https://alan-turing-institute.github.io/turing-tests/data/2016-08-23-butadiene-heath-objectives.zip)
+or explore the [source files on GitHub](https://github.com/alan-turing-institute/turing-tests/tree/gh-pages/data/2016-08-23-butadiene-heath-objectives).
+Check out the [source CSV file](https://github.com/alan-turing-institute/turing-tests/blob/gh-pages/data/2016-08-23-butadiene-heath-objectives/data/raw/aqfg14-13but-201105.csv)
+and [directory with clean results](https://github.com/alan-turing-institute/turing-tests/tree/gh-pages/data/2016-08-23-butadiene-heath-objectives/data/clean).
 
    
 ### Remarks
