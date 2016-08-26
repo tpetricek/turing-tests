@@ -1,0 +1,16 @@
+Site Name,Site Type             ,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010
+Harwell,Rural,N/A,N/A,0.15,N/A,0.12,0.1,0.09,0.11,0.04,0.03,N/A,0.01,0.02,0.01,0.03,0.16,0.18
+London Marylebone Road,Kerbside,N/A,N/A,N/A,N/A,2.35,1.86,1.63,1.12,0.95,0.64,0.56,0.45,N/A,0.31,0.35,0.48,N/A
+Glasgow Kerbside,Kerbside,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.42,N/A,0.21,0.17,0.15,0.15,0.09,0.18
+London Eltham,Suburban              ,N/A,0.54,0.47,0.51,0.39,0.34,0.27,N/A,N/A,N/A,0.15,0.11,0.09,0.1,0.07,0.08,0.06
+London UCL,Roadside,0.86,0.79,0.86,0.86,0.52,0.52,0.38,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Belfast South,Urban Background,0.4,0.37,0.35,0.36,0.24,0.24,0.19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Birmingham East,Urban Background,0.5,0.52,0.5,0.47,0.34,0.34,0.28,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Bristol East,Urban Background,N/A,0.54,0.52,0.5,0.35,0.27,0.26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Cardiff Centre,Urban Background,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.15,0.11,N/A,0.09,N/A,N/A,N/A,N/A
+Cardiff East,Urban Background,0.6,0.52,0.5,0.54,0.45,0.36,0.28,0.27,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Edinburgh Med School,Urban Background,0.25,0.3,0.25,N/A,0.21,0.19,0.14,0.2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Leeds Potternewton,Urban Background,N/A,0.47,0.47,0.53,0.4,0.31,0.26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Liverpool Speke,Urban Background,N/A,N/A,0.47,N/A,0.39,0.31,0.28,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Middlesborough,Urban Industrial,N/A,0.6,0.4,0.39,0.28,0.3,0.23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Southampton Centre,Urban Centre          ,N/A,N/A,0.82,0.76,0.56,0.53,0.51,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
